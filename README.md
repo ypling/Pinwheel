@@ -1,4 +1,4 @@
-# web-app-boilerplate
+# Pinwheel
 ### To start develop
 ```
 npm install
@@ -6,5 +6,4 @@ npm run dev
 ```
 
 ### Todo
-  - Finish production config
-  - Deploy to heroku show as a demo
+  - Drag & drop POC
